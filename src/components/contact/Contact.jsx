@@ -19,15 +19,16 @@ const Contact = () => {
             <div className='items grid2'>
               <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>D63/6 B-22,Shivaji Nagar Colony, Mahmoorganj
+Varanasi - 221 010, Uttar Pradesh (India)</p>
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>
-                <p> info@yoursite.com</p>
+                <p> conceptvns@gmail.com, info@conceptvns.org</p>
               </div>
               <div className='box'>
-                <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
+                <h4>HELP LINE:</h4>
+                <p>9984445444, 9451234006,  9450496860</p>
               </div>
             </div>
 

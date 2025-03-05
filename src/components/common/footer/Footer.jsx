@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                D63/6 B-22,Shivaji Nagar Colony, Mahmoorganj Varanasi-221010,Uttar Pradesh (India)
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                Help Line : +91-9984445444, +91-9451234006, 9450496860
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                E-mail: conceptvns@gmail.com, info@conceptvns.org
               </li>
             </ul>
           </div>
