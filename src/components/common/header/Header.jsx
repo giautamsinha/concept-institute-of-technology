@@ -34,9 +34,14 @@ const Header = () => {
               <Link to='/contact'>Contact</Link>
             </li>
           </ul>
-          <div className='start'>
-            <div className='button'>GET CERTIFICATE</div>
-          </div>
+          <div className="start">
+  <div className="button">HELP LINE</div>
+  <div className="contact">
+    <i className="fas fa-phone-alt"></i> {/* FontAwesome telephone icon */}
+    <span className="mobile-number">9451234006</span> {/* Your mobile number */}
+  </div>
+</div>
+
           <button className='toggle' onClick={() => setClick(!click)}>
             {click ? <i className='fa fa-times'> </i> : <i className='fa fa-bars'></i>}
           </button>
